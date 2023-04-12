@@ -1,0 +1,13 @@
+package com.ipasoft.redisStackEvaluation;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RedisStackEvaluationApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
